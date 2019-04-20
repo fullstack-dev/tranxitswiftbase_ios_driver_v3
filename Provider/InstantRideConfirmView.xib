@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="InstantRideConfirmView" customModule="Provider" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="386"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="lfj-rA-Iw0">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="386"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Please Confirm the address" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="431-TO-9be">
+                            <rect key="frame" x="82" y="8" width="211" height="20.5"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                            <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Pick up Location" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="jeC-8o-Cov">
+                            <rect key="frame" x="65" y="43.5" width="113" height="18"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                            <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ic_location_pin" translatesAutoresizingMaskIntoConstraints="NO" id="G1g-a9-ajJ">
+                            <rect key="frame" x="25" y="53.5" width="25" height="28"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="28" id="bZc-hw-xm0"/>
+                                <constraint firstAttribute="width" constant="25" id="cEi-DJ-zda"/>
+                            </constraints>
+                        </imageView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="05,Peter Ln Street, peeters RD Flyoover,California,United States 90001" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="4" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Lhg-hu-7AA">
+                            <rect key="frame" x="65" y="66.5" width="310" height="31.5"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Drop of Location" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vdb-T6-bKL">
+                            <rect key="frame" x="67" y="113" width="114" height="18"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                            <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ic_location_pin" translatesAutoresizingMaskIntoConstraints="NO" id="xlq-kL-9dv">
+                            <rect key="frame" x="27" y="123" width="25" height="28"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="25" id="1qZ-AX-dlS"/>
+                                <constraint firstAttribute="height" constant="28" id="EQv-3A-wzh"/>
+                            </constraints>
+                        </imageView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="05,Peter Ln Street, peeters RD Flyoover,California,United States 90001" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="4" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="b8P-nf-fPP">
+                            <rect key="frame" x="67" y="136" width="308" height="31.5"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Phone number" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="UQs-gd-lPN">
+                            <rect key="frame" x="67" y="182.5" width="100.5" height="18"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                            <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="phoneCall" translatesAutoresizingMaskIntoConstraints="NO" id="1ZA-j2-V5k">
+                            <rect key="frame" x="27" y="192.5" width="25" height="28"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="25" id="NOE-hb-Nk1"/>
+                                <constraint firstAttribute="height" constant="28" id="fKJ-WD-ejd"/>
+                            </constraints>
+                        </imageView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="987654321" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="PPt-4O-amx">
+                            <rect key="frame" x="67" y="205.5" width="79.5" height="18"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Estimated Fare" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="nk7-ap-1DI">
+                            <rect key="frame" x="67" y="238.5" width="102" height="18"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                            <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="$20" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qti-xl-YF2">
+                            <rect key="frame" x="67" y="261.5" width="28" height="18"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Estimatedfare" translatesAutoresizingMaskIntoConstraints="NO" id="Ncn-dG-MAn">
+                            <rect key="frame" x="27" y="248.5" width="25" height="28"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="28" id="4V2-F0-8Ho"/>
+                                <constraint firstAttribute="width" constant="25" id="giv-4m-Wqi"/>
+                            </constraints>
+                        </imageView>
+                        <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="onR-9B-oHJ">
+                            <rect key="frame" x="62.5" y="330.5" width="250" height="45.5"/>
+                            <subviews>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="TPq-1z-Jhm">
+                                    <rect key="frame" x="0.0" y="0.0" width="120" height="45.5"/>
+                                    <color key="backgroundColor" red="0.93725490199999995" green="0.37254901959999998" blue="0.39607843139999999" alpha="1" colorSpace="calibratedRGB"/>
+                                    <state key="normal" title="CANCEL">
+                                        <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    </state>
+                                    <connections>
+                                        <action selector="CancelBtnTapped:" destination="iN0-l3-epB" eventType="touchUpInside" id="AEM-4b-CVU"/>
+                                    </connections>
+                                </button>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="I4q-ad-s4X">
+                                    <rect key="frame" x="130" y="0.0" width="120" height="45.5"/>
+                                    <color key="backgroundColor" red="0.99607843139999996" green="0.85882352939999995" blue="0.2274509804" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <state key="normal" title="CONFIRM">
+                                        <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    </state>
+                                    <connections>
+                                        <action selector="confirmBtnTapped:" destination="iN0-l3-epB" eventType="touchUpInside" id="CiA-AT-Bx7"/>
+                                    </connections>
+                                </button>
+                            </subviews>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="250" id="Xg1-63-xQh"/>
+                            </constraints>
+                        </stackView>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstItem="Lhg-hu-7AA" firstAttribute="top" secondItem="jeC-8o-Cov" secondAttribute="bottom" constant="5" id="2iA-Zh-9GB"/>
+                        <constraint firstItem="xlq-kL-9dv" firstAttribute="leading" secondItem="lfj-rA-Iw0" secondAttribute="leading" constant="27" id="36g-mM-T30"/>
+                        <constraint firstItem="PPt-4O-amx" firstAttribute="top" secondItem="UQs-gd-lPN" secondAttribute="bottom" constant="5" id="7NB-O6-FBF"/>
+                        <constraint firstItem="jeC-8o-Cov" firstAttribute="top" secondItem="431-TO-9be" secondAttribute="bottom" constant="15" id="8le-nU-1sa"/>
+                        <constraint firstItem="nk7-ap-1DI" firstAttribute="top" secondItem="PPt-4O-amx" secondAttribute="bottom" constant="15" id="9bG-84-biC"/>
+                        <constraint firstItem="onR-9B-oHJ" firstAttribute="centerX" secondItem="lfj-rA-Iw0" secondAttribute="centerX" id="ECs-Jc-EsZ"/>
+                        <constraint firstItem="1ZA-j2-V5k" firstAttribute="leading" secondItem="lfj-rA-Iw0" secondAttribute="leading" constant="27" id="JDR-VC-AHL"/>
+                        <constraint firstAttribute="trailing" secondItem="b8P-nf-fPP" secondAttribute="trailing" id="K8q-PP-rNL"/>
+                        <constraint firstItem="UQs-gd-lPN" firstAttribute="top" secondItem="b8P-nf-fPP" secondAttribute="bottom" constant="15" id="NyM-RN-Hyt"/>
+                        <constraint firstItem="431-TO-9be" firstAttribute="top" secondItem="lfj-rA-Iw0" secondAttribute="top" constant="8" id="OUI-cN-cix"/>
+                        <constraint firstItem="b8P-nf-fPP" firstAttribute="top" secondItem="vdb-T6-bKL" secondAttribute="bottom" constant="5" id="PIc-To-Dhv"/>
+                        <constraint firstItem="vdb-T6-bKL" firstAttribute="leading" secondItem="xlq-kL-9dv" secondAttribute="trailing" constant="15" id="TCy-b5-aaE"/>
+                        <constraint firstItem="qti-xl-YF2" firstAttribute="top" secondItem="nk7-ap-1DI" secondAttribute="bottom" constant="5" id="Zzb-hO-h3I"/>
+                        <constraint firstItem="nk7-ap-1DI" firstAttribute="leading" secondItem="PPt-4O-amx" secondAttribute="leading" id="b0H-kW-mCq"/>
+                        <constraint firstAttribute="trailing" secondItem="Lhg-hu-7AA" secondAttribute="trailing" id="cW0-Kk-pzw"/>
+                        <constraint firstItem="onR-9B-oHJ" firstAttribute="height" secondItem="lfj-rA-Iw0" secondAttribute="height" multiplier="1:8.5" id="gKV-Up-ux6"/>
+                        <constraint firstItem="xlq-kL-9dv" firstAttribute="top" secondItem="vdb-T6-bKL" secondAttribute="top" constant="10" id="iTm-nd-bDO"/>
+                        <constraint firstItem="G1g-a9-ajJ" firstAttribute="leading" secondItem="lfj-rA-Iw0" secondAttribute="leading" constant="25" id="jvG-q5-hzV"/>
+                        <constraint firstItem="Ncn-dG-MAn" firstAttribute="leading" secondItem="lfj-rA-Iw0" secondAttribute="leading" constant="27" id="knS-WB-cdb"/>
+                        <constraint firstItem="431-TO-9be" firstAttribute="centerX" secondItem="lfj-rA-Iw0" secondAttribute="centerX" id="lzp-RS-MTU"/>
+                        <constraint firstItem="1ZA-j2-V5k" firstAttribute="top" secondItem="UQs-gd-lPN" secondAttribute="top" constant="10" id="mkr-P2-gRw"/>
+                        <constraint firstItem="Ncn-dG-MAn" firstAttribute="top" secondItem="nk7-ap-1DI" secondAttribute="top" constant="10" id="nNw-LD-j1T"/>
+                        <constraint firstItem="PPt-4O-amx" firstAttribute="leading" secondItem="UQs-gd-lPN" secondAttribute="leading" id="qWC-si-eRa"/>
+                        <constraint firstItem="vdb-T6-bKL" firstAttribute="top" secondItem="Lhg-hu-7AA" secondAttribute="bottom" constant="15" id="qfe-NL-V8k"/>
+                        <constraint firstItem="G1g-a9-ajJ" firstAttribute="top" secondItem="jeC-8o-Cov" secondAttribute="top" constant="10" id="qz3-cp-fqG"/>
+                        <constraint firstAttribute="bottom" secondItem="onR-9B-oHJ" secondAttribute="bottom" constant="10" id="rM6-BN-B7P"/>
+                        <constraint firstItem="qti-xl-YF2" firstAttribute="leading" secondItem="nk7-ap-1DI" secondAttribute="leading" id="rmc-vQ-vL5"/>
+                        <constraint firstItem="Lhg-hu-7AA" firstAttribute="leading" secondItem="jeC-8o-Cov" secondAttribute="leading" id="w2S-th-bVf"/>
+                        <constraint firstItem="jeC-8o-Cov" firstAttribute="leading" secondItem="G1g-a9-ajJ" secondAttribute="trailing" constant="15" id="we4-0K-KPG"/>
+                        <constraint firstItem="b8P-nf-fPP" firstAttribute="leading" secondItem="vdb-T6-bKL" secondAttribute="leading" id="yTW-AM-EaZ"/>
+                        <constraint firstItem="UQs-gd-lPN" firstAttribute="leading" secondItem="1ZA-j2-V5k" secondAttribute="trailing" constant="15" id="z16-RV-7Cv"/>
+                    </constraints>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="color" keyPath="colorShadow">
+                            <color key="value" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="number" keyPath="opacityShadow">
+                            <real key="value" value="5"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="number" keyPath="radiusShadow">
+                            <real key="value" value="10"/>
+                        </userDefinedRuntimeAttribute>
+                    </userDefinedRuntimeAttributes>
+                </view>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="lfj-rA-Iw0" firstAttribute="bottom" secondItem="vUN-kp-3ea" secondAttribute="bottom" id="3Ua-e1-Ksu"/>
+                <constraint firstItem="lfj-rA-Iw0" firstAttribute="trailing" secondItem="vUN-kp-3ea" secondAttribute="trailing" id="S3V-65-fLJ"/>
+                <constraint firstItem="lfj-rA-Iw0" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" id="gTY-yW-XH3"/>
+                <constraint firstItem="lfj-rA-Iw0" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" id="hMT-k3-HMa"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <userDefinedRuntimeAttributes>
+                <userDefinedRuntimeAttribute type="color" keyPath="colorShadow">
+                    <color key="value" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                </userDefinedRuntimeAttribute>
+            </userDefinedRuntimeAttributes>
+            <connections>
+                <outlet property="PhoneImage" destination="1ZA-j2-V5k" id="XAc-5k-Z4T"/>
+                <outlet property="PhoneNumberLbl" destination="PPt-4O-amx" id="LxI-ie-9Oz"/>
+                <outlet property="PhoneNumberTitle" destination="UQs-gd-lPN" id="Jvd-RX-zQw"/>
+                <outlet property="PickUpAddressLbl" destination="Lhg-hu-7AA" id="fWB-mP-hBL"/>
+                <outlet property="cancelBtn" destination="TPq-1z-Jhm" id="aD2-xw-hyD"/>
+                <outlet property="confirmBtn" destination="I4q-ad-s4X" id="UDZ-Bj-xYy"/>
+                <outlet property="confirmTitleLabel" destination="431-TO-9be" id="ttD-3n-hPI"/>
+                <outlet property="dropLocationAddressLbl" destination="b8P-nf-fPP" id="gve-6b-ys0"/>
+                <outlet property="dropLocationImg" destination="xlq-kL-9dv" id="Xhh-zL-cmx"/>
+                <outlet property="dropLocationTitleLbl" destination="vdb-T6-bKL" id="SDo-eW-Tqw"/>
+                <outlet property="estimatedImg" destination="Ncn-dG-MAn" id="01y-q1-E7s"/>
+                <outlet property="estimatedPriceLbl" destination="qti-xl-YF2" id="KXs-8R-qJ9"/>
+                <outlet property="estimatedTitle" destination="nk7-ap-1DI" id="PjQ-qv-uDl"/>
+                <outlet property="pickUpImage" destination="G1g-a9-ajJ" id="GrZ-3i-ujW"/>
+                <outlet property="pickUpLocationTitleLbl" destination="jeC-8o-Cov" id="mcH-fF-8Ks"/>
+            </connections>
+            <point key="canvasLocation" x="68" y="-504.64767616191909"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="Estimatedfare" width="512" height="512"/>
+        <image name="ic_location_pin" width="30" height="30"/>
+        <image name="phoneCall" width="51" height="51"/>
+    </resources>
+</document>

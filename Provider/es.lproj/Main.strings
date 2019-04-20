@@ -1,0 +1,186 @@
+
+/* Class = "UILabel"; text = "One Way"; ObjectID = "1m1-FJ-UgX"; */
+"1m1-FJ-UgX.text" = "One Way";
+
+/* Class = "UILabel"; text = "10.13 AM"; ObjectID = "2aa-Mx-Gu7"; */
+"2aa-Mx-Gu7.text" = "10.13 AM";
+
+/* Class = "UITextView"; text = "Write Something"; ObjectID = "2yH-7R-C9d"; */
+"2yH-7R-C9d.text" = "Write Something";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "3F1-F2-Bqd"; */
+"3F1-F2-Bqd.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "3dW-PY-hJ4"; */
+"3dW-PY-hJ4.text" = "0";
+
+/* Class = "UITextField"; placeholder = "Last name"; ObjectID = "3j8-MP-602"; */
+"3j8-MP-602.placeholder" = "Last name";
+
+/* Class = "UITextField"; placeholder = "City"; ObjectID = "5Bq-Wb-y8U"; */
+"5Bq-Wb-y8U.placeholder" = "City";
+
+/* Class = "UITextField"; placeholder = "Vehicle Year"; ObjectID = "6SF-8d-KXR"; */
+"6SF-8d-KXR.placeholder" = "Vehicle Year";
+
+/* Class = "UILabel"; text = "1 KM"; ObjectID = "75L-oi-KLX"; */
+"75L-oi-KLX.text" = "1 KM";
+
+/* Class = "UILabel"; text = "Outstation"; ObjectID = "77e-4a-ZOO"; */
+"77e-4a-ZOO.text" = "Outstation";
+
+/* Class = "UITextField"; placeholder = "Car Category"; ObjectID = "8V5-t5-lyV"; */
+"8V5-t5-lyV.placeholder" = "Car Category";
+
+/* Class = "UILabel"; text = "Base Fare"; ObjectID = "8ze-Ro-gn7"; */
+"8ze-Ro-gn7.text" = "Base Fare";
+
+/* Class = "UILabel"; text = "Outstation"; ObjectID = "9wf-wM-023"; */
+"9wf-wM-023.text" = "Outstation";
+
+/* Class = "UILabel"; text = "Invoice"; ObjectID = "Bgg-MC-iqQ"; */
+"Bgg-MC-iqQ.text" = "Invoice";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "D41-HN-56N"; */
+"D41-HN-56N.text" = "0";
+
+/* Class = "UILabel"; text = "TOTAL NO. OF RIDES"; ObjectID = "EgP-uM-UGX"; */
+"EgP-uM-UGX.text" = "TOTAL NO. OF RIDES";
+
+/* Class = "UILabel"; text = "Booking ID"; ObjectID = "Fff-9k-l5H"; */
+"Fff-9k-l5H.text" = "Booking ID";
+
+/* Class = "UILabel"; text = "Driver Proof"; ObjectID = "K2l-W1-TVc"; */
+"K2l-W1-TVc.text" = "Driver Proof";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KnU-9X-r90"; */
+"KnU-9X-r90.text" = "Label";
+
+/* Class = "UILabel"; text = "CANCELLED RIDES"; ObjectID = "Krb-cf-PZA"; */
+"Krb-cf-PZA.text" = "CANCELLED RIDES";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LAJ-vZ-PcP"; */
+"LAJ-vZ-PcP.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "Lj4-uS-JkE"; */
+"Lj4-uS-JkE.placeholder" = "Name";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LmF-Eg-7RI"; */
+"LmF-Eg-7RI.text" = "Label";
+
+/* Class = "UILabel"; text = "Distance Fare"; ObjectID = "N1w-Ka-gZb"; */
+"N1w-Ka-gZb.text" = "Distance Fare";
+
+/* Class = "UILabel"; text = "Two Way"; ObjectID = "NOC-HC-YbX"; */
+"NOC-HC-YbX.text" = "Two Way";
+
+/* Class = "UILabel"; text = "Shuttle"; ObjectID = "Sx3-uW-S8e"; */
+"Sx3-uW-S8e.text" = "Shuttle";
+
+/* Class = "UILabel"; text = "105 CVE"; ObjectID = "ULi-8c-GZ8"; */
+"ULi-8c-GZ8.text" = "105 CVE";
+
+/* Class = "UILabel"; text = "Cash"; ObjectID = "VAL-9p-65J"; */
+"VAL-9p-65J.text" = "Cash";
+
+/* Class = "UILabel"; text = "13 CVE"; ObjectID = "VMI-cv-g39"; */
+"VMI-cv-g39.text" = "13 CVE";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "YGD-Dp-jLP"; */
+"YGD-Dp-jLP.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "13 CVE"; ObjectID = "ZZW-AU-Hzr"; */
+"ZZW-AU-Hzr.text" = "13 CVE";
+
+/* Class = "UILabel"; text = "Rental"; ObjectID = "ZxN-rO-YiE"; */
+"ZxN-rO-YiE.text" = "Rental";
+
+/* Class = "UILabel"; text = "NO. OF SCHEDULED RIDES"; ObjectID = "a3s-1E-1Qe"; */
+"a3s-1E-1Qe.text" = "NO. OF SCHEDULED RIDES";
+
+/* Class = "UILabel"; text = "Trip Type"; ObjectID = "aYf-sF-Mgg"; */
+"aYf-sF-Mgg.text" = "Trip Type";
+
+/* Class = "UIButton"; normalTitle = "GO OFFLINE"; ObjectID = "adw-ae-KTm"; */
+"adw-ae-KTm.normalTitle" = "GO OFFLINE";
+
+/* Class = "UILabel"; text = "Tax"; ObjectID = "b6J-ec-IV4"; */
+"b6J-ec-IV4.text" = "Tax";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "cTq-ua-v2O"; */
+"cTq-ua-v2O.text" = "0";
+
+/* Class = "UITextField"; placeholder = "Vehicle Model"; ObjectID = "dfN-o2-ROp"; */
+"dfN-o2-ROp.placeholder" = "Vehicle Model";
+
+/* Class = "UILabel"; text = "THATRC1235"; ObjectID = "e8w-BQ-l9I"; */
+"e8w-BQ-l9I.text" = "THATRC1235";
+
+/* Class = "UILabel"; text = "18 CVE"; ObjectID = "eB0-0y-V2r"; */
+"eB0-0y-V2r.text" = "18 CVE";
+
+/* Class = "UILabel"; text = "Tips"; ObjectID = "fAb-Hp-oAw"; */
+"fAb-Hp-oAw.text" = "Tips";
+
+/* Class = "UILabel"; text = "Time Taken"; ObjectID = "fY3-Uo-2jW"; */
+"fY3-Uo-2jW.text" = "Time Taken";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "gS7-Oo-j4B"; */
+"gS7-Oo-j4B.placeholder" = "Email";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "hiS-yc-fCp"; */
+"hiS-yc-fCp.placeholder" = "Phone Number";
+
+/* Class = "UILabel"; text = "0 mins"; ObjectID = "lC5-FW-Ofy"; */
+"lC5-FW-Ofy.text" = "0 mins";
+
+/* Class = "UITextField"; placeholder = "Vehicle make"; ObjectID = "mWp-fY-xvR"; */
+"mWp-fY-xvR.placeholder" = "Vehicle make";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "nl6-Xt-VNO"; */
+"nl6-Xt-VNO.normalTitle" = "SUBMIT";
+
+/* Class = "UILabel"; text = "5CVE"; ObjectID = "nmg-ig-wfX"; */
+"nmg-ig-wfX.text" = "5CVE";
+
+/* Class = "UILabel"; text = "Total "; ObjectID = "ohO-SY-dbd"; */
+"ohO-SY-dbd.text" = "Total ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qNh-ID-HKQ"; */
+"qNh-ID-HKQ.text" = "Label";
+
+/* Class = "UILabel"; text = "REVENUE"; ObjectID = "qhq-d9-vIg"; */
+"qhq-d9-vIg.text" = "REVENUE";
+
+/* Class = "UILabel"; text = "13 KM"; ObjectID = "rU8-TJ-Nhz"; */
+"rU8-TJ-Nhz.text" = "13 KM";
+
+/* Class = "UITextField"; placeholder = "Referral Code (optional)"; ObjectID = "rcN-6e-DA1"; */
+"rcN-6e-DA1.placeholder" = "Referral Code (optional)";
+
+/* Class = "UILabel"; text = "I have read and agreed the Terms and Conditions"; ObjectID = "rhb-MB-51j"; */
+"rhb-MB-51j.text" = "I have read and agreed the Terms and Conditions";
+
+/* Class = "UILabel"; text = "Pick Up Location"; ObjectID = "rsk-de-U3L"; */
+"rsk-de-U3L.text" = "Pick Up Location";
+
+/* Class = "UITextField"; placeholder = "Vehicle License Plate"; ObjectID = "s5j-dL-Qnj"; */
+"s5j-dL-Qnj.placeholder" = "Vehicle License Plate";
+
+/* Class = "UITextField"; placeholder = "Vehicle Model"; ObjectID = "t7Q-qY-ytb"; */
+"t7Q-qY-ytb.placeholder" = "Vehicle Model";
+
+/* Class = "UITextField"; placeholder = "Vehicle Color"; ObjectID = "tTg-NB-8Po"; */
+"tTg-NB-8Po.placeholder" = "Vehicle Color";
+
+/* Class = "UILabel"; text = "Distance Travelled"; ObjectID = "uwj-k7-dM2"; */
+"uwj-k7-dM2.text" = "Distance Travelled";
+
+/* Class = "UIButton"; normalTitle = "PAY NOW"; ObjectID = "vUE-qI-zmy"; */
+"vUE-qI-zmy.normalTitle" = "PAY NOW";
+
+/* Class = "UILabel"; text = "86 CVE"; ObjectID = "vqm-fg-gWx"; */
+"vqm-fg-gWx.text" = "86 CVE";
+
+/* Class = "UILabel"; text = "vehicle photo"; ObjectID = "zJX-dv-TNX"; */
+"zJX-dv-TNX.text" = "vehicle photo";

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="offlineView" customModule="User" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="c6S-9B-Ryw">
+                    <rect key="frame" x="0.0" y="20" width="375" height="647"/>
+                    <subviews>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="offline" translatesAutoresizingMaskIntoConstraints="NO" id="Cgp-97-SgZ">
+                            <rect key="frame" x="112" y="248" width="150" height="150"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="150" id="B24-xO-JPG"/>
+                                <constraint firstAttribute="height" constant="150" id="kO7-JI-7hm"/>
+                            </constraints>
+                        </imageView>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstItem="Cgp-97-SgZ" firstAttribute="centerY" secondItem="c6S-9B-Ryw" secondAttribute="centerY" id="Dci-qk-Kyp"/>
+                        <constraint firstItem="Cgp-97-SgZ" firstAttribute="centerX" secondItem="c6S-9B-Ryw" secondAttribute="centerX" id="t89-VA-tSI"/>
+                    </constraints>
+                </view>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Zm2-pX-0lP" customClass="EFAutoScrollLabel" customModule="EFAutoScrollLabel">
+                    <rect key="frame" x="16" y="70" width="343" height="72"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                </view>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="Zm2-pX-0lP" secondAttribute="trailing" constant="16" id="23j-nR-ao0"/>
+                <constraint firstItem="Zm2-pX-0lP" firstAttribute="height" secondItem="c6S-9B-Ryw" secondAttribute="height" multiplier="1:9" id="3sX-Ng-qu5"/>
+                <constraint firstItem="c6S-9B-Ryw" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" id="7VL-qk-hbL"/>
+                <constraint firstItem="Zm2-pX-0lP" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" constant="50" id="TfS-08-xzO"/>
+                <constraint firstItem="c6S-9B-Ryw" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" id="YQE-Pi-KVy"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="bottom" secondItem="c6S-9B-Ryw" secondAttribute="bottom" id="em8-MC-AN4"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="c6S-9B-Ryw" secondAttribute="trailing" id="oxr-9f-zlt"/>
+                <constraint firstItem="Zm2-pX-0lP" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="16" id="yS3-A4-dg3"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <connections>
+                <outlet property="mainView" destination="c6S-9B-Ryw" id="1lx-8x-L2p"/>
+                <outlet property="viewAutoScrollNotVerified" destination="Zm2-pX-0lP" id="rKz-nJ-rW3"/>
+            </connections>
+        </view>
+    </objects>
+    <resources>
+        <image name="offline" width="460" height="460"/>
+    </resources>
+</document>

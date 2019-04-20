@@ -1,0 +1,1040 @@
+"Done"=    "فعله";
+"Back"=    "الى الخلف";
+"no device"=    "لا يوجد جهاز";
+"manual"=    "كتيب";
+"OK"=    "حسنا";
+"Cancel"=    "إلغاء";
+"NA"=    "NA";
+"Mobile Number"=    "رقم الهاتف المحمول";
+"Next"=    "التالى";
+"Select Source"=    "اختر مصدر";
+"Camera"=    "الة تصوير";
+"Photo Library"=    "مكتبة الصور";
+"Welcome"=    "أهلا بك";
+"Drive"=    "قيادة";
+"Earn"=    "كسب";
+"SIGN IN"=    "تسجيل الدخول";
+"SIGNUP"=    "سجل";
+"Or connect with social"=    "أو الاتصال مع الاجتماعية";
+"Introducing Tranxit Driver to take rides from the Tranxit app users."=    "إدخال سائق Tranxit لاتخاذ ركوب الخيل من المستخدمين Tranxit التطبيق.";
+"Be your own boss, set your own schedule. Get the latest driving features all in one spot."=    "كن مدرب الخاصة بك، تعيين الجدول الزمني الخاص بك. الحصول على ميزات أحدث القيادة في كل بقعة واحدة.";
+"Get well paid to help out strangers get to where they need to go,withdraw your earnigs every week/monthly."=    "يتقاضون رواتبهم بشكل جيد لمساعدة الغرباء وصول الى حيث يجب أن تذهب، وسحب earnigs كل أسبوع / شهريا.";
+"name@example.com"=    "name@example.com";
+"Email"=    "البريد الإلكتروني";
+"I need to create an account"=    "ولست بحاجة لإنشاء حساب";
+"What's your Email Address?"=    "ما هو عنوان بريدك الالكترونى؟";
+"sign in to continue"=    "تسجيل الدخول إلى مواصلة";
+"Enter Password"=    "أدخل كلمة المرور";
+"Password"=    "كلمه السر";
+"I forgot my password"=    "لقد نسيت كلمة المرور";
+"Enter Confirm Password" = "أدخل تأكيد كلمة المرور";
+"Password and confirm password doesn't match" = "كلمة المرور وتأكيد كلمة المرور غير متطابقين";
+"Enter your mail ID for recovery"=    "أدخل معرف البريد الخاص بك لتحقيق الانتعاش";
+"Choose an account"=    "اختيار حساب";
+"Facebook"=    "فيس بوك";
+"Google"=    "جوجل";
+"Payment"=    "دفع";
+"Your Trips"=    "رحلات الخاصة بك";
+"Earnings"=    "أرباح";
+"Summary"=    "ملخص";
+"Document"=    "وثيقة";
+"Passbook"=    "وصل الدفع";
+"Settings"=    "إعدادات";
+"Help"=    "مساعدة";
+"Share"=    "شارك";
+"Our team persons will contact you soon!"=    "والأشخاص فريقنا بالاتصال بك قريبا!";
+"FAQ Support"=    "التعليمات دعم";
+"Terms and Conditions"=    "الأحكام والشروط";
+"Privacy Policy"=    "سياسة الخصوصية";
+"Logout"=    "الخروج";
+"First Name"=    "الاسم الاول";
+"Last Name"=    "الكنية";
+"Phone Number"=    "رقم الهاتف";
+"VehicleMake"=    "صناعة المركبات";
+"VehicleModel"=    "موديل المركبة";
+"VehicleYear"=    "سنة السيارة";
+"VehicleColor"=    "لون المركبة";
+"VehiclePlateNumber"=    "رقم لوحة السيارة";
+"City"=    "مدينة";
+"Car Category"=    "سيارة الفئة";
+"Referral Code"=    "كود الإحالة";
+"Enter the details to register"=    "أدخل تفاصيل لتسجيل";
+"Note: Please enter the OTP sent to your registered email address"=    "ملاحظة: الرجاء إدخال مكتب المدعي العام إرسالها إلى عنوان بريدك الإلكتروني المسجل";
+"Enter OTP"=    "أدخل OTP";
+"New Password"=    "كلمة السر الجديدة";
+"Old Password"=    "كلمة المرور القديمة";
+"Reset password"=    "إعادة تعيين كلمة المرور";
+"Confirm Password"=    "تأكيد كلمة المرور";
+"Country"=    "بلد";
+"Time Zone"=    "وحدة زمنية";
+"BUsiness"=    "اعمال";
+"Personal"=    "الشخصية";
+"Could not reach th web"=    "لا يمكن أن تصل إلى الويب عشر";
+"Login Sucessfully"=    "تسجيل الدخول بنجاح";
+"Registration Sucessfully Completed"=    "تسجيل اكتمل بنجاح";
+"Profile Updated sucessfully"=    "تجديد بنجاح";
+"Invide Refreral"=    "Invide Refreral";
+"Refer your friends to drive!"=    "الرجوع أصدقائك لدفع!";
+"Given the free ride by reffering the invide code worth 10BCM"=    "ونظرا للركوب مجانا من ريكر في 10 كود قيمتها";
+"Share your Invide code"=    "شارك كود Invide الخاص بك";
+"Refferal Earning"=    "كسب";
+"Total Members"=    "إجمالي الأعضاء";
+"INVITE FRIENDS"=    "ادعو أصدقاء";
+"TOTAL NO OF RIDES" = "المجموع من ركوب الخيل";
+"REVENUE" =    "إيرادات";
+"NO OF SCHEDULED RIDES" =    "من ركوب الخيل المقررة";
+"CANCELLED RIDES" =    "ركوب الخيل الغاءها";
+"Summary" =    "ملخص";
+"Vehicle Registration"=    "استمارة المركبة";
+"Legal Status"=    "الوضع القانوني";
+"Driving Abstarct"=    "يقود مجردة";
+"Criminal Record"=    "سجل جنائي";
+"SUBMIT"=    "خضع";
+"DOCUMENTS"=    "مستندات";
+"Your trips"=    "الرحلات الخاصة بك";
+"Past"=    "الماضي";
+"Upcomming"=    "قادمة";
+"Booking ID"=    "معرف الحجز";
+"Distance travelled"=    "المسافة المقطوعة";
+"Time Taken"=    "الوقت الذي يستغرقه";
+"Base Fare"=    "الاجرة الاساسية";
+"Distance Fare"=    "المسافة أجرة";
+"Tax"=    "ضريبة";
+"Tips"=    "نصائح";
+"Total"=    "مجموع";
+"Invoice"=    "فاتورة";
+"cash"=    "السيولة النقدية";
+"PAY NOW"=    "ادفع الآن";
+"GO ONLINE"=    "اتصل بالانترنت";
+"GO OFFLINE"=    "الذهاب دون اتصال";
+"PICKEDUP"=    "التقط";
+"TAP WHEN DROPPED"=    "انقر عندما تم إسقاطه";
+"DROPPED"=    "إسقاط";
+"COMPLETED"=    "منجز";
+"ARRIVED"=    "وصل";
+"offline"=    "غير متصل على الانترنت";
+"active"=    "نشيط";
+"storage"=    "تخزين";
+"Pick Up Location"=    "اختر موقعا";
+"Drop Location"=    "انخفاض الموقع";
+"Drop"=    "قطرة";
+"PickUp"=    "امسك";
+"Invite Referral"=    "دعوة الإحالة";
+"at"=    "في";
+"Call"=    "مكالمة";
+"View Receipt"=    "استلام عرض";
+"Payment Method"=    "طريقة الدفع او السداد";
+"Pay via"=    "دفع عبر";
+"Cancel Ride"=    "إلغاء جولة";
+"Comments"=    "تعليقات";
+"Upcoming Trip Details"=    "تفاصيل رحلة القادمة";
+"Past Trip Details"=    "تفاصيل رحلة الماضية";
+"no Comments"=    "بدون تعليقات";
+"Enter the details"=    "أدخل تفاصيل";
+"Enter OTP"=    "أدخل كلمة المرور مرة واحدة";
+"New Password"=    "كلمة السر الجديدة";
+"Enter Current Password"=    "إدخل كلمة السر الحالية";
+"Change Password"=    "تغيير كلمة السر";
+"Note : Please enter the OTP send to your registered email address"=    "ملاحظة: الرجاء إدخال مكتب المدعي العام إرسالها إلى عنوان بريدك الإلكتروني المسجل";
+"Enter New Password"=    "أدخل كلمة المرور الجديدة";
+"Enter Confirm Password"=    "أدخل تأكيد كلمة المرور";
+"OTP incorrect"=    "مكتب المدعي العام غير صحيحة";
+"Profile"=    "الملف الشخصي";
+"save"=    "حفظ";
+"Looking to change password?"=    "تبحث لتغيير كلمة المرور؟";
+"latitude"=    "خط العرض";
+"longitude"=    "خط الطول";
+"Rate your trip with"=    "معدل رحلتك مع";
+"Write your comments"=    "إرسال تعليقاتكم";
+"Cannot make Call At the Moment"=    "لا يمكن إجراء المكالمات في لحظة";
+"Enter Valide OTP"=    "أدخلأدخل كلمة مرور صالحة مرة واحدة";
+"Do you want to logout?"=    "هل ترغب بالخروج؟";
+"Transaction Id"=    "عملية معرف";
+"Date"=    "تاريخ";
+"Amount"=    "كمية";
+"Status"=    "الحالة";
+"Transaction"=    "عملية تجارية";
+"Enter the Amount"=    "أدخل المبلغ";
+"No Transactions yet"=    "لا المعاملات بعد";
+"Enter valid amount"=    "إدخال مبلغ صالح";
+"Available credit balance"=    "متوفر رصيد";
+"Do you want to cancel request?"=    "هل ترغب في إلغاء الطلب؟";
+"Ignore"=    "تجاهل";
+"English"=    "English";//"الإنجليزية";
+"Spanish"=    "الأسبانية";
+"Documents"=    "مستندات";
+"Delete"=    "حذف";
+"Add"=    "إضافة";
+"Edit"=    "تصحيح";
+"card"=    "بطاقة";
+"Payment Methods"=    "طرق الدفع";
+"Add Card to continue with wallet"=    "إضافة بطاقة الاستمرار في المحفظة";
+"All payment methods has been blocked"=    "تم حظر جميع طرق الدفع";
+"select card to continue"=    "حدد بطاقة لمواصلة";
+"Add card for payments"=    "إضافة بطاقة للمدفوعات";
+"Are you sure want to delete this card?"=    "هل تريد بالتأكيد حذف هذه البطاقة؟";
+"Remove"=    "إزالة";
+"Upload"=    "تحميل";
+"Documents uploaded successfully!"=    "الوثائق التي تم تحميلها بنجاح!";
+"Minimum balance is required, for wallet transaction."=    "مطلوب حد أدنى للرصيد، لمعاملة المحفظة.";
+"Scheduled for"=    "المقرر ل";
+"Arabic"=    "عربى";
+"Your Wallet Amount is" = "مبلغ المحفظة الخاص بك هو";
+"Wallet" = "محفظة نقود";
+"Language" = "لغة";
+"Today's Completed Target" = "اليوم الهدف المكتمل";
+"Total Earnings" = "الأرباح الكلية";
+"Distance" = "مسافه: بعد";
+"Time" = "زمن";
+"Support" = "الدعم";
+"Service" = "الخدمات";
+"You haven't booked any rides yet." = "لم تحجز أي رحلات بعد";
+"Find details of your bookings here." = "ابحث عن تفاصيل حجوزاتك هنا";
+"You haven't received upcoming rides." = "لم تستلم رحلات قادمة";
+"Find details of your upcoming rides here." = "العثور على تفاصيل عن رحلاتك القادمة هنا";
+"Accept" = "قبول";
+"Reject" = "رفض";
+"Amount to be paid" = "المبلغ المستحق للدفع";
+"Confirm Payment" = "تأكيد الدفع";
+"A new version of this App is available in the App Store" = "يتوفر إصدار جديد من هذا التطبيق في App Store";
+
+"Password changed and please login with new password" = "تم تغيير كلمة المرور ويرجى تسجيل الدخول باستخدام كلمة مرور جديدة";
+
+
+"Waiting Time" = "وقت الانتظار";
+"Low Balance! Please settle the amount to admin" = "انخفاض الرصيد! يرجى تسوية المبلغ للمشرف";
+"Hey check this app" = "يا تحقق من هذا التطبيق";
+"Install this app with referral code"="تثبيت هذا التطبيق مع رمز الإحالة";
+"Invite Friends"="ادعو أصدقاء";
+"Others If Any" = "آخرون إن وجدت";
+"Reason For Cancellation" = "سبب الالغاء";
+"Your Referral Code" = "قانون الإحالة الخاص بك";
+"Referral Code (Optional)" = "إحالة قانون (اختياري)";
+"Service Type" = "نوع الخدمة";
+"Car Number" = "رقم السياره";
+"Car Model" = "طراز السيارة";
+"Choose service type" = "اختر نوع الخدمة";
+"Enter vehicle code" = "أدخل رمز السيارة";
+"Enter vehicle model" = "أدخل طراز السيارة";
+
+
+"Your Dispute already created" = "النزاع الخاص بك بالفعل";
+"Please enter your comments" = "يرجى إدخال تعليقاتك";
+"Please choose dispute type" = "يرجى اختيار نوع النزاع";
+"Dispute" = "خلاف";
+"Dispute Status" = "حالة النزاع";
+"Enter Toll Amount" = "أدخل مبلغ الرسوم";
+"Dismiss" = "استبعاد";
+"Add Toll Amount" = "إضافة مبلغ الرسوم";
+"Ride Updated \n Destination Changed to" = "ركوب التحديث \n تم تغيير الوجهة إلى
+";
+"Destination" = "المكان المقصود";
+"Enter Phone number" = "أدخل رقم الهاتف";
+"Instant Ride" = "رحلة فورية";
+"Notification Manager" = "مدير الإشعارات";
+
+"Please confirm the address" = "يرجى تأكيد العنوان";
+"Confirm" = "تؤكد";
+"Estimated Fare" = "الأجرة المقدرة";
+
+"You are using both user and driver apps in same device. So app may not work properly" = "أنت تستخدم كل من تطبيقات المستخدم وبرامج التشغيل في نفس الجهاز. لذلك قد لا يعمل التطبيق بشكل صحيح";
+"Continue" = "استمر";
+"Add Money"    =    "إضافة المال";
+
+"No Notifications" = "لا إشعارات";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
